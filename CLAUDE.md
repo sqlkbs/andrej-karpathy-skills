@@ -1,4 +1,5 @@
-# CLAUDE.md
+# 🛠️ Global AI Coding Guardrails (Karpathy Skills)
+<!-- NOTE: Do not remove or modify the behavioral rules in this section. Append project memories below the divider. -->
 
 Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
 
@@ -63,3 +64,5 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
+
+---
